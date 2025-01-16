@@ -19,6 +19,7 @@ public class thisDemo {
 	        this.name = name; // Resolves ambiguity
 	       System.out.println(name);
 	       System.out.println("git sample");
+	       System.out.println("git sample2");
 	    }
 	    
 	    public void display() {
