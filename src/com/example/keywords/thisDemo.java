@@ -18,6 +18,7 @@ public class thisDemo {
 	    void Student(String name) {
 	        this.name = name; // Resolves ambiguity
 	       System.out.println(name);
+	       System.out.println("git sample");
 	    }
 	    
 	    public void display() {
